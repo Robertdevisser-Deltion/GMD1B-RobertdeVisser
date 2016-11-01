@@ -47,6 +47,7 @@
   <ItemGroup>
      <Compile Include="Assets\Deathzone.cs" />
      <Compile Include="Assets\GameManager.cs" />
+     <Compile Include="Assets\Launcher.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
