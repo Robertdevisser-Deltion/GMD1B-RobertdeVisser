@@ -21,7 +21,7 @@ public class Score : MonoBehaviour {
     {
         bal.AddExplosionForce(v, transform.position, 2f);
 
-        GameObject.Find("GameManager").GetComponent<GameManager>().score += 25;   
+        GameObject.Find("GameManager").GetComponent<GameManagerr>().score += 25;   
         
     }
 }
