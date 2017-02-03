@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 6d4ff19f2fde05d40a6178c085cb9c30
+timeCreated: 1485974832
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Botdeelachter
+    100002: Draad1
+    100004: Draad2
+    100006: Greep
+    100008: Grip
+    100010: Handgreep
+    100012: Loop
+    100014: Loopdeel1
+    100016: Loopdeel2
+    100018: //RootNode
+    100020: pijl
+    100022: richter
+    100024: spanner
+    100026: Trekker
+    100028: Voorkantboog
+    400000: Botdeelachter
+    400002: Draad1
+    400004: Draad2
+    400006: Greep
+    400008: Grip
+    400010: Handgreep
+    400012: Loop
+    400014: Loopdeel1
+    400016: Loopdeel2
+    400018: //RootNode
+    400020: pijl
+    400022: richter
+    400024: spanner
+    400026: Trekker
+    400028: Voorkantboog
+    2300000: Botdeelachter
+    2300002: Draad1
+    2300004: Draad2
+    2300006: Greep
+    2300008: Grip
+    2300010: Handgreep
+    2300012: Loop
+    2300014: Loopdeel1
+    2300016: Loopdeel2
+    2300018: pijl
+    2300020: richter
+    2300022: spanner
+    2300024: Trekker
+    2300026: Voorkantboog
+    3300000: Botdeelachter
+    3300002: Draad1
+    3300004: Draad2
+    3300006: Greep
+    3300008: Grip
+    3300010: Handgreep
+    3300012: Loop
+    3300014: Loopdeel1
+    3300016: Loopdeel2
+    3300018: pijl
+    3300020: richter
+    3300022: spanner
+    3300024: Trekker
+    3300026: Voorkantboog
+    4300000: Loop
+    4300002: Voorkantboog
+    4300004: Greep
+    4300006: Draad1
+    4300008: Draad2
+    4300010: Grip
+    4300012: Botdeelachter
+    4300014: Handgreep
+    4300016: Loopdeel1
+    4300018: Loopdeel2
+    4300020: Trekker
+    4300022: richter
+    4300024: spanner
+    4300026: pijl
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

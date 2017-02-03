@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/WapenRobertGmd1B.unity
+  isLoaded: 1
+  isActive: 1
